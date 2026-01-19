@@ -1,1 +1,1 @@
-GET http://localhost:5150
+GET http://localhost:5150/api/trips?Date=20260119&StartCode=MO&StopCode=UN&startTime=0700
